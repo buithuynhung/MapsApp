@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CafeLocation</string>
+    <string name="show_maps">Show Cafe Locations</string>
+    <string name="contact">Contact: </string>
+    <string name="time_open">Open at: </string>
+    <string name="time_close">Close at: </string>
+    <string name="people_numb">Number of people in line: </string>
+    <string name="aka">Akadem Park</string>
+    <string name="shop">Sportmaster</string>
+</resources>
